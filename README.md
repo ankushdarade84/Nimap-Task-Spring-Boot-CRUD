@@ -18,18 +18,18 @@ follow the following steps to run the program <br/>
 
 
 Test the API Using the following way <br/>
-1. using postman <br/>
-   ![image](https://github.com/ankushdarade84/Nimap-Task-Spring-Boot-CRUD/assets/82811718/96731f71-1314-44af-b683-e1736ce2485a) <br/>
-<br/>
-<br/>
-2. using swagger URL in Chrome(not need Postman) <br/>
+
+1. using swagger URL in Chrome(not need Postman) <br/>
    URL -  http://localhost:8080/swagger-ui/index.html <br/>
  ![image](https://github.com/ankushdarade84/Nimap-Task-Spring-Boot-CRUD/assets/82811718/846f2074-5665-4cd0-8168-ed8855434bf4)
  <br/>
+2. using postman <br/>
+   ![image](https://github.com/ankushdarade84/Nimap-Task-Spring-Boot-CRUD/assets/82811718/96731f71-1314-44af-b683-e1736ce2485a) <br/>
+<br/>
+
 <br/>
 <br/>
-<br/>
-database check <br/>
+Database check <br/>
 ![image](https://github.com/ankushdarade84/Nimap-Task-Spring-Boot-CRUD/assets/82811718/88c0e24c-328a-4c20-8465-1fbb675e656f)  <br/>
 ![image](https://github.com/ankushdarade84/Nimap-Task-Spring-Boot-CRUD/assets/82811718/ac1a5a27-0fc4-4ec9-a09c-92d372d806fc)
 
